@@ -6,6 +6,8 @@ watch.py - Analog Watch Display using jpg for the face and filled polygons for t
     Previous version video: https://youtu.be/NItKb6umMc4
 """
 
+# Git Repo eingerichtet
+
 # Anzeigefehler wurde korrigiert:
 # Winkel 0 ist bei 6-Uhr! (+ math.pi für 0-Uhr)
 # Standard ist UTC deshalb (hour+2 für Sommerzeit)
